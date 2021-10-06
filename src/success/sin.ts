@@ -1,0 +1,1 @@
+console.log(Math.sin("3.1415"))
