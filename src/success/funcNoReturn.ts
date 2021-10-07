@@ -1,5 +1,3 @@
-let helloFunc = () => { "hello" }
+let helloFunc = () => "hello"
 
 let text: string = helloFunc();
-
-
